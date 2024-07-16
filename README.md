@@ -49,7 +49,9 @@ Welcome to my GitHub profile! I'm a 20-year-old French developer who is passiona
 ## 💬 Social
 
 <div align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/300901253007933441.png" />
+    <a href="https://discord.com/users/300901253007933441" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/300901253007933441" alt="Discord Presence">
+    </a>
 </div>
 
 </details>
