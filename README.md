@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm a 20-year-old French developer who is passionate about coding and creating software solutions.
+Welcome to my GitHub profile! I'm a 21-year-old French developer who is passionate about coding and creating software !
 
 ```
 🤙🏼 Optimist, and crazy about programming (C# 💘).
