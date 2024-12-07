@@ -18,6 +18,8 @@
 
 ### ✨ Skills
 
+<div align="center">
+
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![API Platform](https://img.shields.io/badge/API%20Platform-0099a1?style=for-the-badge&logo=Symfony)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -36,6 +38,8 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
 
 ### 🕒 Stats
 
