@@ -1,10 +1,9 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&center=true&vCenter=true&random=false&width=600&lines=Hello+there+%F0%9F%91%8B;I'm+Alexis+Udycz+(Aka+C4NX)+%F0%9F%A6%9D;Nice+to+meet+you+%F0%9F%92%9C)](https://git.io/typing-svg)
-
-## Introduction
-
-Welcome to my GitHub profile! I'm a 21-year-old French developer who is passionate about coding and creating software !
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&center=true&vCenter=true&random=false&width=600&lines=Hello+there+%F0%9F%91%8B;I'm+Alexis+Udycz+(Aka+C4NX)+%F0%9F%A6%9D;Nice+to+meet+you+%F0%9F%92%9C" alt="Typing SVG">
+    </a>
+    <p>Welcome to my GitHub profile! I'm a 21-year-old French developer who is passionate about coding and creating software !</p>
+</div>
 
 ```
 🤙🏼 Optimist, and crazy about programming (C# 💘).
@@ -17,7 +16,7 @@ Welcome to my GitHub profile! I'm a 21-year-old French developer who is passiona
 <details open>
 <summary>Expand / Collapse</summary>
 
-## ✨ Skills
+### ✨ Skills
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![API Platform](https://img.shields.io/badge/API%20Platform-0099a1?style=for-the-badge&logo=Symfony)
@@ -37,22 +36,16 @@ Welcome to my GitHub profile! I'm a 21-year-old French developer who is passiona
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-<!-- ![Skills 1](https://skillicons.dev/icons?i=cs,ts,js,php,py,html,css,godot,lua) -->
-<!-- ![Skills 2](https://skillicons.dev/icons?i=dotnet,react,vue,docker,linux,figma,bots,bootstrap,materialui,vite) -->
 
-## 🕒 Stats
+### 🕒 Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=C4NX&theme=blue-green" />
 </div>
 
-## 💬 Social
+### 💻 Autres projets
 
-<div align="center">
-    <a href="https://discord.com/users/300901253007933441" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/300901253007933441" alt="Discord Presence">
-    </a>
-</div>
+- [Nuit de l'Informatique 2024](https://github.com/Sakusai/Nuit-info)
 
 </details>
 
