@@ -39,9 +39,7 @@
 
 ### 🕒 Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=C4NX&theme=blue-green" />
-</div>
+![Stats Github](https://github-readme-stats.vercel.app/api?username=C4NX&theme=blue-green)
 
 ### 💻 Autres projets
 
