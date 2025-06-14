@@ -19,7 +19,7 @@
 ### 💻 Projects / Events
 
 - **December 5 & 6, 2024** - [Nuit de l'Informatique #18](https://github.com/Sakusai/Nuit-info)
-- **2023 -> 2025** - Developper for [Realms of Fantasy](https://cartoon-fantasy.net/association/qui-sommes-nous) on [Cartoon Fantasy](https://cartoon-fantasy.net/)
+- **2023 ⇨ 2025** - Developper for [Realms of Fantasy](https://cartoon-fantasy.net/association/qui-sommes-nous) on [Cartoon Fantasy](https://cartoon-fantasy.net/)
 
 ### 🕒 Stats
 
