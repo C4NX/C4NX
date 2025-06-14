@@ -6,11 +6,11 @@
 
 ### ✨ Skills
 
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
+![Symfony 7](https://img.shields.io/badge/Symfony%207-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![API Platform](https://img.shields.io/badge/API%20Platform-0099a1?style=for-the-badge&logo=Symfony)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular 17](https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular 17/18](https://img.shields.io/badge/Angular%2018-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nuxt 3](https://img.shields.io/badge/nuxt%203-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -19,7 +19,7 @@
 ### 💻 Projects / Events
 
 - **December 5 & 6, 2024** - [Nuit de l'Informatique #18](https://github.com/Sakusai/Nuit-info)
-- **2023/Present** - Developper for [Realms of Fantasy](https://cartoon-fantasy.net/association/qui-sommes-nous) on [Cartoon Fantasy](https://cartoon-fantasy.net/)
+- **2023 -> 2025** - Developper for [Realms of Fantasy](https://cartoon-fantasy.net/association/qui-sommes-nous) on [Cartoon Fantasy](https://cartoon-fantasy.net/)
 
 ### 🕒 Stats
 
