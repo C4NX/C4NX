@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&duration=3000&color=0086F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C+I'm+Alexis+Udycz+%F0%9F%A6%9D" alt="Typing SVG" /></a>
-    <p>Welcome to my GitHub profile! I'm a 21-year-old French developer who is passionate about coding and creating apps !</p>
+    <p>Welcome to my GitHub profile! I'm a 22-year-old French developer who is passionate about coding and creating apps !</p>
     <i>🤙🏼 Optimist, 🦝 racoon enthusiast, and ⚡ new tech enjoyer!</i>
 </div>
 
