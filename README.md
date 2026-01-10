@@ -20,7 +20,3 @@
 
 - **December 5 & 6, 2024** - [Nuit de l'Informatique #18](https://github.com/Sakusai/Nuit-info)
 - **2023 ⇨ today** - Developper for [Realms of Fantasy](https://cartoon-fantasy.net/association/qui-sommes-nous) on [Cartoon Fantasy](https://cartoon-fantasy.net/)
-
-### 🕒 Stats
-
-![Stats Github](https://github-readme-stats.vercel.app/api?username=C4NX&theme=synthwave)
